@@ -1,0 +1,22 @@
+{
+  "name": "jest_practice",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archie9010/jest_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archie9010/jest_practice/issues"
+  },
+  "homepage": "https://github.com/Archie9010/jest_practice#readme",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
